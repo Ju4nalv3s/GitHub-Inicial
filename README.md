@@ -1,2 +1,3 @@
-# GitHub-Inicial
- Primeiro repositório versionado do curso de Git e GitHub
+# GitHub:Inicial
+ Primeiro repositório versionado, de Git e GitHub
+ Criado esses dias
